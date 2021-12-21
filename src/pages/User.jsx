@@ -1,8 +1,7 @@
 import React, {useContext, useEffect} from 'react';
 import {FaCode, FaStore, FaUserFriends, FaUsers} from 'react-icons/fa'
-import {Link} from 'react-router-dom'
+import {Link, useParams} from 'react-router-dom'
 import Spinner from "../components/layout/Spinner";
-import {useParams} from "react-router-dom";
 import GithubContext from "../context/github/GithubContext";
 import RepoList from "../components/repos/RepoList";
 import {getUserAndRepos} from "../context/github/GithubActions";
