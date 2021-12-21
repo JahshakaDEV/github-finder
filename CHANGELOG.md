@@ -1,10 +1,12 @@
 # Changelog
 
-<a name="1.0.0"></a>
-## 1.0.0 (2021-12-21)
+<a name="1.1.0"></a>
+## 1.1.0 (2021-12-21)
 
 ### Added
 
+- ➕ Added Axios [[f571146](https://github.com/JahshakaDEV/github-finder/commit/f57114653e715fa644dc924d3a66d6d97c467029)]
+- ✨ Added changelog [[6d92443](https://github.com/JahshakaDEV/github-finder/commit/6d9244356021a7fec630e1b9374f3409a89267ac)]
 - ✨ Added clear button [[64b934f](https://github.com/JahshakaDEV/github-finder/commit/64b934f93b9df24c9f4544f90ca0326054cd7b9d)]
 - ✨ Finished Searchbar [[03d6687](https://github.com/JahshakaDEV/github-finder/commit/03d6687b6fdcfe4403366743dcb2a67c869f84af)]
 - ✨ Added new Searchbar [[4cc5099](https://github.com/JahshakaDEV/github-finder/commit/4cc50992befe4f1d832eaca96fd7ade88ff6e029)]
@@ -15,6 +17,9 @@
 
 ### Changed
 
+- ♻️ Cleaned up ActionsFile &amp; refactored to axios [[24db9dd](https://github.com/JahshakaDEV/github-finder/commit/24db9dd97636b035ade01f13dcdeb434d3ae997b)]
+- ♻️ Move getUser &amp; getUserRepos to Action file [[788b2d1](https://github.com/JahshakaDEV/github-finder/commit/788b2d1fb574a8f09566b3cd168f5d27ae722718)]
+- ♻️ Move SearchUsers to Actions File [[98e4cc6](https://github.com/JahshakaDEV/github-finder/commit/98e4cc6306fb7079e2ba848878c6ab6ad055f70d)]
 - 🚸 Added alert context [[d8cea3b](https://github.com/JahshakaDEV/github-finder/commit/d8cea3bfe328b1fbbf9b6e8390d06c0b8ddc8e9b)]
 - ♻️ Moved from states to context [[a2a4672](https://github.com/JahshakaDEV/github-finder/commit/a2a467261845dd033f348c7335afaa1bcfa299f5)]
 
